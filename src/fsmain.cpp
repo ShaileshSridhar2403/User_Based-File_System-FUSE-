@@ -15,7 +15,7 @@
 #include "../include/fstree.h"
 #include "../include/fsoperations.h"
 #include "../include/persistence.h"
-// #include "../include/bitmap.h"
+// #iinclude "../include/bitmap.h"
 // #include "../include/fsdisk.h"
 // static constexpr struct fuse_operations{};
 
